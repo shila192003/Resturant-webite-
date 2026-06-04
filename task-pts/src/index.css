@@ -1,0 +1,9 @@
+@import './styles/global.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* smooth anchor offsets for sticky navbar */
+section{ scroll-margin-top: 90px; }
+
